@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FitSphere", "FitSphere\FitSphere.vbproj", "{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Debug|ARM64.Build.0 = Debug|ARM64
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Debug|x64.ActiveCfg = Debug|x64
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Debug|x64.Build.0 = Debug|x64
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Release|ARM64.ActiveCfg = Release|ARM64
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Release|ARM64.Build.0 = Release|ARM64
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Release|x64.ActiveCfg = Release|x64
+		{58133D52-CD48-4AAD-8C0A-DC7DC7D4C0C2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D4FD13A-E75A-483D-ABAD-599880F7B2D7}
+	EndGlobalSection
+EndGlobal
